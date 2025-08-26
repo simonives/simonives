@@ -3,7 +3,7 @@
 
 I am an enterprise technologist and founder. I build technology for human flourishing at work.
 
-We use technology to engineer efficiency but ignore the human cost: disconnection and burnout. Both philosophy and business show this is not a technical problem; it is a failure of imagination.
+We use technology to engineer efficiency but ignore the human cost: disconnection and burnout. This is not a technical problem; it is a failure of imagination.
 
 Human Resources is the epicentre of this challenge. We speak of agile teams and dynamic careers, yet our core systems are rigid and siloed. They cannot model the true, interconnected nature of our organisations.
 
@@ -26,11 +26,13 @@ My approach is grounded in first principles and guided by this philosophy:
     
 -   **Database:**  Graph Databases (Neo4j), Event-Sourced Architectures
     
--   **DevOps & Tools:**  Git, GitHub Actions, Docker, VS Code
+-   **DevOps & Tools:**  Git, GitHub Actions, Docker, VS Code, Postman
     
 
 ### 📫 Let's Connect
 
 This is a conversation for any leader who wants to build a committed team. If you share this belief, let's connect.
+
+If you would like to view the content of Coforma's main project please review the draft [Confidentiality Agreement](https://github.com/simonives/simonives/blob/main/Confidentiality%20Agreement.pdf) in this repo and contact me here or via LinkedIn.
 
 Find me on  [LinkedIn](https://www.linkedin.com/in/simonives/).
